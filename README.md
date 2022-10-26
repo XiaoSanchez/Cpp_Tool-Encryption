@@ -24,7 +24,7 @@ To run tests, run the following command
          PLEASE LOG IN TO USE FEATURES
 ---------------------------------------------
         ENTER USERNAME:shawn
-        ENTER PASSWORD:0801
+        ENTER PASSWORD:0000
 
 ---------------------------------------------
 ```
