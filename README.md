@@ -23,7 +23,7 @@ To run tests, run the following command
 ```bash
          PLEASE LOG IN TO USE FEATURES
 ---------------------------------------------
-        ENTER USERNAME:shawn
+        ENTER USERNAME:Shawn
         ENTER PASSWORD:0000
 
 ---------------------------------------------
